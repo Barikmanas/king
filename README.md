@@ -1,4 +1,4 @@
 # king
 lion needs no introduction
 <br>
-author - manas kumar barik
+author - manas kumar panda
